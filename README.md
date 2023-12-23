@@ -40,3 +40,7 @@ not yet
 ## Email
 
 I can be contacted at this email: <drfrankenstein123@gmail.com>
+
+## Screenshots
+
+![readmeSnap](https://github.com/neyneyalldayday/nenemusicserver/assets/65675240/298848a5-af94-4393-8c32-205e2d175a59)
